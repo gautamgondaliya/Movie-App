@@ -1,0 +1,15 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0A0A0A;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
