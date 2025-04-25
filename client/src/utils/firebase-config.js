@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDU6A6yePlKPMnoC83490ZgCOewah8g0G8",
+  apiKey: "xxxxxxxx",
   authDomain: "mern-movie.firebaseapp.com",
   projectId: "mern-movie",
   storageBucket: "mern-movie.appspot.com",
